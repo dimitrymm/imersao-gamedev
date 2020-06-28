@@ -1,3 +1,5 @@
+
+
 class Personagem {
     constructor(imagem) {
         this.imagem = imagem;
